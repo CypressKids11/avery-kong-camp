@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(252, 217, 224);
+    margin: 0%;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.one {
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    justify-content: center;
+    background-color: aliceblue;
+    flex-direction: row-reverse;
+}
+
+.button {
+    display: flex;
+    width: 250px;
+    margin-left: 990px;
+}
+
+.button-1 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(179, 249, 231);
+    border-color: rgb(255, 255, 255);
+}
+
+.button-1:hover {
+    background-color: pink;
+}
+
+.button2 {
+    color: black;
+    background-color: pink;
+    border-color: aliceblue;
+}
+
+.button2:hover {
+    background-color: rgb(173, 252, 226);
+}
+
+.heart {
+    width: 150px;
+    height: 150px;
+}
+
+#buttonText{
+    position:absolute;
+    margin-top:55px;
+    color: #fb7a7a;
+}
+
+.text {
+    font-size: 27px;
+}
+
+.picture {
+    justify-content: center;
+}
+
+.gif-1 {
+    height: 1px;
+    width: 1px;
+}
+
+#click {
+    margin-top: 80px;
+}
